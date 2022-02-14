@@ -136,7 +136,7 @@ public class BankApp {
                     break;
 
                 case 5:
-                    System.out.println("See you soon....Have a Nice Day(-_-)");
+                    System.out.println("See you soon....Have a Nice Day('_')");
                     break;
             }
         }
